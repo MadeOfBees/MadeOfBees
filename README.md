@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MadeOfBees
-- 👀 I’m interested in skill toys/flashlights/naps
 - 🌱 I’m currently learning full stack web development.
 
 <!---
