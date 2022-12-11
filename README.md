@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MadeOfBees
-- 🌱 I’m currently learning full stack web development.
+[GitBadges](https://home.aveek.io/GitHub-Profile-Badges/)
 
 <!---
 MadeOfBees/MadeOfBees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
